@@ -1,0 +1,18 @@
+Introduction to Visual Basic.NET
+
+Visual Basic.NET now truly supports Object Oriented Programming, including features such as 
+inheritance, interfaces, parameterized constructors and overloading. With Object Oriented 
+Programming, data takes center stage, supporting not only  reference types but also value types. 
+However, pitfalls await the unwary for those who do not understand the nuances of 
+copying and boxing. 
+
+Error handling takes a major step forward with Structured Exception Handling.
+You can throw away your old On Error GoTo statement. You won't be needing it.
+
+For those more inclined to C#, I will be providing examples in both Visual Basic.NET and C#.
+This will be bi-lingual education at its finest. We'll begin with a fast-paced tutorial with LOTS of
+code.
+
+We'll conclude with a brief description of the differences between VB.NET and C#.
+
+
